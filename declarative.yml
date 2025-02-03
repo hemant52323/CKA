@@ -1,0 +1,24 @@
+# This is a comment
+
+
+Employee:
+  Name: Hemant
+  Age: 31
+  Address: B1/918
+
+
+#This is List
+Employee:
+  -Name : Aditi
+    Age: 29
+    Address: B1/918
+  -Name : Gupta
+    Age: 29
+    Address: B1/918
+  -Name : Saxena
+    Age: 31
+    Address: B1/918
+     -Old: H-860
+     -permanent: 65/C
+     #nested List
+
